@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Api.exe
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Api.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Api.deps.json
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Api.runtimeconfig.json
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Api.pdb
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Domain.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Services.dll
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Domain.pdb
+C:\Users\lucas\Documents\projects\LojaManoel\src\Api\bin\Release\net8.0\publish\Services.pdb
